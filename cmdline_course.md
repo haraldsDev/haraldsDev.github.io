@@ -46,9 +46,9 @@ Here is a nice picture from File-System tutorial, which shows what every specifi
 
 <!-- [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2" -->
 
-<!-- [logo]: https://github.com/haraldsDev/haraldsDev.github.io/blob/master/assets/img/File-System-Picture.png "A picture of File System on Unix" -->
+[logo]: https://github.com/haraldsDev/haraldsDev.github.io/blob/master/assets/img/File-System-Picture.png "A picture of File System on Unix"
 
-[logo]: /Users/Haralds/src/cmd-website/haraldsDev.github.io/assets/img/File-System-Picture.png "A picture of File System on Unix"
+<!-- [logo]: /Users/Haralds/src/cmd-website/haraldsDev.github.io/assets/img/File-System-Picture.png "A picture of File System on Unix" -->
 
 <!-- /Users/Haralds/src/cmd-website/haraldsDev.github.io/cmdline_course.md -->
 
