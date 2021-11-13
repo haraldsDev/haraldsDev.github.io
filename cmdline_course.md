@@ -53,7 +53,7 @@ Main goals for the Week2:
 
 <br/><br/>
 
-An example of very usefule code how to copy an entire directory from remote server to local machine:
+An example of very useful code how to copy an entire directory from remote server to local machine:
 ```
 scp -r matuliha@puhti.csc.fi:/users/matuliha/lda-t302/exercise2 
 ~/Desktop/H/Helsinki/Helsinki-Courses-2021/LD-T302-Computational-Morphology
@@ -131,8 +131,8 @@ cat katinka_rabe.utf-8.txt | tr "a" "A"
 Learning outcomes of Week4:
 
 + You can delete lines from a file using sed
-+ You can find and replace patterns from a file using sed
-+ You can use regular expressions with sed
++ You can find and replace patterns from a file using **sed**
++ You can use regular expressions with **sed**
 + You understand how commands can be piped in UNIX using pipe `|` operator
 + You know how to generate a frequency list from a text file
 + You know how to generate sentence per line format from a text file
@@ -163,9 +163,9 @@ The learning outcomes of week5 were:
 + You know how to access command line parameters in scripts
 + You know what the if statement does
 + You understand command substitution
-+ You can see the values of existing environment variables using echo
++ You can see the values of existing environment variables using **echo**
 + You can change their values of existing environment variables and define new ones using export
-+ You can make these settings permanent by placing them into your .bashrc / .bash_profile file.
++ You can make these settings permanent by placing them into your **.bashrc** / **.bash_profile** file.
 + You can use the .bashrc / .bash_profile files to create a pleasant working environment for yourself! This can include a nice prompt or shortcuts for commands you use often.
 
 <br/><br/>
@@ -211,11 +211,11 @@ Here we see the characteristic syntax of Bash:
 Goals of week6:
 
 + You can give commands as the root user, preferably using sudo
-+ You can install software in your system using apt-get or brew
-+ You can install python packages using pip
++ You can install software in your system using apt-get or **brew**
++ You can install python packages using **pip**
 + You can search for apt-get, brew or pip packages online or using the tools' search functionalities, and follow instructions on how to install them (OK, this is too general - but at least you have some idea on how)
 + You can create a python virtual environment for yourself, and install packages in that environment
-+ You can write a Makefile and run it
++ You can write a **Makefile** and run it
 
 <br/><br/>
 
@@ -273,7 +273,7 @@ The goals of Week7:
 
 <br/><br/>
 
-**Reflection**: I had previous experience with git, so this was not so hard. I was nice to learn about GitHub pages - it seemed really an easy way to publish something on web. I learned some new things about relationship between **local** and **remote** repos – or perhaps, it has changed and evolved in the last years, and I just didn't know that.
+**Reflection**: I had previous experience with git, so this was not so hard. It was nice to learn about GitHub pages - it seemed really an easy way to publish something on web. I learned some new things about relationship between **local** and **remote** repos – or perhaps, it has changed and evolved in the last years, and I just didn't know that.
 
 <br/><br/>
 
@@ -290,8 +290,8 @@ A code example – how to do git merge:
 
 Main topics and takeaways from the Final Week:
 
-+ setting up Jekyll, installing everything
-+ customizing my GitHub repo for GitHub pages
++ setting up **Jekyll**, installing everything
++ customizing my GitHub repo for **GitHub pages**
 + learning about templates and experimenting with adding bits and pieces of data.
 
 <br/><br/>
@@ -304,6 +304,6 @@ gem "kramdown-parser-gfm"
 
 <br/><br/>
 
-**Reflection**: All in all I felt relieved, that it was so (comparatively) easy to set up everything with Jekyll, the local server also worked really well - I have had some previous experience wiht local servers in web development, where you had to refresh manually. Although, I still have some reservations about using all different kind of programming languages - like **Ruby** for this project – I feel that project looks *messy* with all different file types in the Root folder. It intuitively seems *unclean* and *unscientific* way how to work - if you  don't really know what every file is doing, and you just hop around changing some bits in the existing files. However, I'm learning to accept this part of *programming* life. : )
+**Reflection**: All in all I felt relieved, that it was so (comparatively) easy to set up everything with Jekyll, the local server also worked really well - I have had some previous experience wiht local servers in web development, where you had to refresh manually. Although, I still have some reservations about using all different kind of programming languages - like **Ruby** for this project – I feel that project looks *messy* with all different file types in the Root folder. It intuitively seems *unclean* and *unscientific* way how to work - if you  don't really know what every file is doing, and you just hop around changing some bits in the existing files. However, I'm **learning** to accept this part of *programming* life, and thanks for this course! : )
 
 
