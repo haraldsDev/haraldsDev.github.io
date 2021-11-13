@@ -8,7 +8,7 @@ Hi!
 My name is Haralds, also called Harri in Finland.
 I study Digital Humanities (DH) at University of Helsinki in Masters Program 'Linguistic Diversity and Digital Humanities'.
 
-[My CV](https://github.com/haraldsDev/haraldsDev.github.io/blob/master/assets/documents/Haralds_Matulis_CV_English_13.11.2021.pdf)
+[see my CV](https://github.com/haraldsDev/haraldsDev.github.io/blob/master/assets/documents/Haralds_Matulis_CV_English_13.11.2021.pdf)
 
 ## Find me on
 

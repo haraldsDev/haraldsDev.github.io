@@ -67,9 +67,10 @@ scp -r matuliha@puhti.csc.fi:/users/matuliha/lda-t302/exercise2
 <br/><br/>
 
 **Here is a nice picture from File-System** tutorial, which shows what every specific folder is for:
-![alt there should be a picture of File-System][preg]
 
-[preg]: https://github.com/haraldsDev/haraldsDev.github.io/master/assets/img/File-System-Picture-as-jpeg.jpeg "Logo Title Text 2"
+![alt there should be a picture of File-System][pic]
+
+[pic]: https://github.com/haraldsDev/haraldsDev.github.io/master/assets/img/File-System-Picture-as-jpeg.jpeg "Logo Title Text 2"
 
 
 In case the previous picture didn't show, here is a Reference logo from Markdown tutorial, which for some reason works:
